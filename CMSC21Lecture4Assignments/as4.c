@@ -4,6 +4,7 @@
     long int p;
     int n;
     
+    printf("Table of Powers of Two\n\n");
     printf("\n n    2 to the n");
     printf("\n===  ============");
     
@@ -20,4 +21,3 @@
 
 
 
-  
